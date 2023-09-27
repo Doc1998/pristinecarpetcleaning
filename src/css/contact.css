@@ -315,7 +315,7 @@
   body.dark-mode #cs-contact #cs-form input,
   body.dark-mode #cs-contact #cs-form textarea {
     background-color: transparent;
-    color: white;;
+    color: white;
   }
   body.dark-mode #cs-contact #cs-form label::placeholder,
   body.dark-mode #cs-contact #cs-form input::placeholder,
