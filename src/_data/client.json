@@ -1,0 +1,15 @@
+{
+  "name": "Carpet Cleaning GTA",
+  "email": "",
+  "phone": "647-977-1072",
+  "phoneFormatted": "(647) 977-1072",
+  "address": {
+    "lineOne": "",
+    "lineTwo": "",
+    "city": "Toronto",
+    "county": "CA",
+    "postcode": "",
+    "mapLink": ""
+  },
+  "domain": "www.cleanway.ie"
+}
