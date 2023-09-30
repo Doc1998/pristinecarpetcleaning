@@ -353,7 +353,7 @@ body {
   }
   #cs-navigation-760 .cs-logo img {
     width: 100%;
-    height: 100%;
+    height: 140%;
     /* ensures the image never overflows the container. It stays contained within it's width and height and expands to fill it then stops once it reaches an edge */
     object-fit: contain;
   }
@@ -779,7 +779,7 @@ body {
   }
   #cs-navigation-760 .cs-logo img {
     width: 100%;
-    height: 100%;
+    height: 150%;
     /* ensures the image never overflows the container. It stays contained within it's width and height and expands to fill it then stops once it reaches an edge */
     object-fit: contain;
   }
@@ -995,7 +995,7 @@ body {
   }
   #footer .left-section .logo img {
     width: auto;
-    height: 100%;
+    height: 200%;
     display: block;
   }
   #footer .left-section p {
@@ -1110,6 +1110,11 @@ body {
 @media only screen and (min-width: 64em) {
   #footer {
     font-size: min(1.2vw, 1em);
+  }
+  #footer .left-section .logo img {
+    width: auto;
+    height: 230%;
+    display: block;
   }
   #footer .container {
     display: flex;
