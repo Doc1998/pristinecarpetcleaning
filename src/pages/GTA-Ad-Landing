@@ -1,0 +1,323 @@
+---
+layout: 'base.html'
+description: 'The highest quality cleaning company. Based in Toronto we provide commerical and residential cleaning services'
+metaTitle: 'Carpet Cleaning GTA'
+tagTitle: 'Carpet Cleaning GTA'
+preloadImg: '/images/landing-1920w.webp'
+preloadCSS: '/css/carpet-cleaning.css'
+permalink: '/Carpet-Cleaning-In-Toronto'
+---
+<!-- Enter html code below -->
+
+<!-- ============================================ -->
+<!--                    Hero                      -->
+<!-- ============================================ -->
+
+<!-- ============================================ -->
+<!--                    Hero                      -->
+<!-- ========================================= -->
+
+<section id="hero-329">
+    <div class="cs-container">
+        <div class="cs-flex-group">
+            <span class="cs-topper">Carpet Cleaning Services Toronto</span>
+            <h1 class="cs-title">Carpet Cleaning <span class="cs-accent">Toronto</span></h1>
+            <p class="cs-text">
+                We are committed to the best quality carpet cleaning, with evening & weekend availability and one hour dry-time
+            </p>
+            <div class="cs-button-group">
+                <a href="/contact" class="cs-button-solid">Make A Booking</a>
+                <a href="tel:647-697-4773" class="cs-button-transparent">
+                    <picture class="cs-picture">
+                        <img class="cs-img" decoding="async" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/charity-phone-green.svg" alt="icon" width="12" height="12" aria-hidden="true">
+                    </picture>
+                    (647) 697-4773
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Background Image -->
+    <picture class="cs-background">
+        <source media="(max-width: 600px)" srcset="assets/images/carpet-hero.webp">
+        <source media="(min-width: 601px)" srcset="assets/images/carpet-hero.webp">
+        <img decoding="async" src="assets/images/carpet-hero.webp" alt="cleaner" width="2250" height="1500" aria-hidden="true">
+    </picture>
+</section>
+                                
+                                
+<!-- ============================================ -->
+<!--                   Steps                      -->
+<!-- ============================================ -->
+
+<section id="steps-276">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">Best-In-Class</span>
+            <h2 class="cs-title">Our Simple Process from Start to Finish</h2>
+            <p class="cs-text">
+            </p>
+        </div>
+        <ul class="cs-card-group">
+            <li class="cs-item">
+                <span class="cs-number">01</span>
+                <p class="cs-item-text">
+                    Call or fill in our form for an instant quote. 
+                </p>
+            </li>
+            <li class="cs-item">
+                <span class="cs-number">02</span>
+                <p class="cs-item-text">
+                   Make a booking. 
+                </p>
+            </li>
+            <li class="cs-item">
+                <span class="cs-number">03</span>
+                <p class="cs-item-text">
+                    Our Professional will visit and clean your carpet. 
+                </p>
+            </li>
+            <li class="cs-item">
+                <span class="cs-number">04</span>
+                <p class="cs-item-text">
+                    Enjoy your freshly cleaned carpets. 
+                </p>
+            </li>
+        </ul>
+        <a href="/contact" class="cs-button-solid">BOOK NOW</a>
+    </div>
+</section>
+                                
+                                
+<!-- ============================================ -->
+<!--            Side By Side Reverse              -->
+<!-- ============================================ -->
+
+<section id="sbsr-599">
+    <picture class="cs-background">
+        <!--Mobile Image-->
+        <source media="(max-width: 600px)" srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/SideBySide/room3-m.jpg">
+        <!--Tablet and above Image-->
+        <source media="(min-width: 601px)" srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/SideBySide/room3.jpg">
+        <img loading="lazy" decoding="async" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/SideBySide/room3.jpg" alt="room" width="960" height="796">
+    </picture>
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">Who We Are</span>
+            <h2 class="cs-title">House Painting Contractors For Oak Harbor </h2>
+            <p class="cs-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            </p>
+            <p class="cs-text">
+                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+            </p>
+            <a href="" class="cs-button-solid">Contact Us</a>
+        </div>
+    </div>
+</section>
+                                                                                  
+
+<!-- ============================================ -->
+<!--                 Why Choose                   -->
+<!-- ============================================ -->
+
+<section id="why-choose-890">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">Specialties</span>
+            <h2 class="cs-title">Our Services</h2>
+        </div>
+        <ul class="cs-card-group">
+            <li class="cs-item">
+                <img class="cs-icon" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Fballs1.svg" loading="lazy" decoding="async" alt="icon" width="48" height="48" aria-hidden="true">
+                <!-- Text Grouped For Flexbox-->
+                <div class="cs-text-group">
+                    <h3 class="cs-h3">Carpet Cleaning</h3>
+                    <p class="cs-item-text">
+                        Give your carpet the care it needs with our earth-friendly carpet cleaning services.
+                    </p>
+                </div>
+            </li>
+            <li class="cs-item">
+                <img class="cs-icon" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Fballs1.svg" loading="lazy" decoding="async" alt="icon" width="48" height="48" aria-hidden="true">
+                <!-- Text Grouped For Flexbox-->
+                <div class="cs-text-group">
+                    <h3 class="cs-h3">Pet Stain & Odor</h3>
+                    <p class="cs-item-text">
+                        Remove any bad smells or odors left by pets
+                    </p>
+                </div>
+            </li>
+            <li class="cs-item">
+                <img class="cs-icon" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Fballs1.svg" loading="lazy" decoding="async" alt="icon" width="48" height="48" aria-hidden="true">
+                <!-- Text Grouped For Flexbox-->
+                <div class="cs-text-group">
+                    <h3 class="cs-h3">Commercial</h3>
+                    <p class="cs-item-text">
+                        Trust GTA Carpet Cleaning for your office or commercial space.
+                    </p>
+                </div>
+            </li>
+            <li class="cs-item">
+                <img class="cs-icon" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Fballs1.svg" loading="lazy" decoding="async" alt="icon" width="48" height="48" aria-hidden="true">
+                <!-- Text Grouped For Flexbox-->
+                <div class="cs-text-group">
+                    <h3 class="cs-h3">Disinfecting</h3>
+                    <p class="cs-item-text">
+                        Stay healthy with GTA Carpet Cleaning’s Disinfecting and Sanitization for your home and business.
+                    </p>
+                </div>
+            </li>
+        </ul>
+        <a href="/contact" class="cs-button-solid">Contact Us</a>
+        <!--Floating Arrow Graphic-->
+        <img class="cs-floater" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images%2FGraphics%2Forange-arrow.svg" alt="arrow" loading="lazy" decoding="async" aria-hidden="true">
+    </div>
+</section>
+                                
+<!-- ============================================ -->
+<!--                 Content Page                 -->
+<!-- ============================================ -->
+
+<!-- ============================================ -->
+<!--                Side By Side                  -->
+<!-- ============================================ -->
+
+<section id="sbs-691">
+    <div class="cs-container">
+        <div class="cs-image-group">
+            <!--Main Image-->
+            <picture class="cs-picture cs-picture1">
+                <!--Mobile Image-->
+                <source media="(max-width: 600px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-1.webp">
+                <!--Tablet and above Image-->
+                <source media="(min-width: 601px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-1.webp">
+                <img loading="lazy" decoding="async" src="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-1.webp" alt="carpet cleaning" width="542" height="647">
+            </picture>
+            <!--Small Image-->
+            <picture class="cs-picture cs-picture2">
+                <!--Mobile Image-->
+                <source media="(max-width: 600px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-3.webp">
+                <!--Tablet and above Image-->
+                <source media="(min-width: 601px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-3.webp">
+                <img loading="lazy" decoding="async" src="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-3.webp" alt="carpet cleaning" width="413" height="493">
+            </picture>
+            <!--Flower Graphic-->
+            <img class="cs-flower" loading="lazy" decoding="async" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images%2FGraphics%2Fbig-abstract-flower.svg" alt="carpet cleaning" width="363" height="350" aria-hidden="true">
+            <!--Spidey Sense Graphic-->
+            <img class="cs-sense" loading="lazy" decoding="async" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images%2FGraphics%2Fspider-sense.svg" alt="carpet cleaning" width="80" height="89" aria-hidden="true">
+        </div>
+        <div class="cs-content">
+            <span class="cs-topper">Carpet Cleaning Toronto</span>
+            <h2 class="cs-title">Professional <span class="cs-color">Rug Cleaning</span></h2>
+            <p class="cs-text">
+                We understand the importance of your investment and guarantee that your rugs will be cleaned beautifully, each fiber getting special attention, to achieve maximum vibrance.
+            </p>
+            <a href="/contact" class="cs-button-solid">GET A QUOTE NOW</a>
+        </div>
+    </div>
+    <!--Floating Leaf-->
+    <img class="cs-floater" loading="lazy" decoding="async" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images%2FMISC%2Fleaf4.png" alt="leaf" width="216" height="384" aria-hidden="true">
+</section>
+                                
+                                                   
+                                
+<!-- ============================================ -->
+<!--                     FAQ                      -->
+<!-- ============================================ -->
+
+<section id="faq-352">
+    <div class="cs-container">
+        <div class="cs-left">
+            <!--Image 1-->
+            <picture class="cs-picture cs-picture1" aria-hidden="true">
+                <source media="(max-width: 600px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-1.webp">
+                <source media="(min-width: 601px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-1.webp">
+                <img loading="lazy" decoding="async" src="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-1.webp" alt="cleaning supplies" width="672" height="672">
+            </picture>
+            <!--Image 2-->
+            <picture class="cs-picture cs-picture2" aria-hidden="true">
+                <source media="(max-width: 600px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-2.webp">
+                <source media="(min-width: 601px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-2.webp">
+                <img loading="lazy" decoding="async" src="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-2.webp" alt="cleaning lady" width="300" height="300">
+            </picture>
+            <!--Image 3-->
+            <picture class="cs-picture cs-picture3" aria-hidden="true">
+                <source media="(max-width: 600px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-3.webp">
+                <source media="(min-width: 601px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-3.webp">
+                <img loading="lazy" decoding="async" src="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-stock-3.webp" alt="cleaner" width="200" height="200">
+            </picture>
+            <!--Image 4-->
+            <picture class="cs-picture cs-picture4" aria-hidden="true">
+                <source media="(max-width: 600px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-cleaner.png">
+                <source media="(min-width: 601px)" srcset="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-cleaner.png">
+                <img loading="lazy" decoding="async" src="https://cheerful-biscochitos-c71e98.netlify.app/assets/images/carpet-cleaner.png" alt="cleaner" width="200" height="200">
+            </picture>
+            <div class="cs-blue" aria-hidden="true"></div>
+        </div>
+        <div class="cs-content">
+            <span class="cs-topper">Asked questions</span>
+            <h2 class="cs-title">Frequently Asked Questions</h2>
+            <ul class="cs-faq-group">
+                <!-- Active class added as default -->
+                <li class="cs-faq-item active">
+                    <button class="cs-button">
+                        <span class="cs-button-text">
+                            How much are carpet cleaning services?
+                        </span>
+                    </button>
+                    <p class="cs-item-p">
+                        The price of carpet cleaning is determined by several factors, with the size of the job being a significant consideration. Larger areas or heavily soiled carpets may require more time, effort, and cleaning products, which can increase the overall price. Additionally, the 
+                        specific services requested, such as stain removal or deep cleaning treatments, can also affect the final cost. Get an online quote <a href="/contact">here</a>
+                    </p>
+                </li>
+                <li class="cs-faq-item">
+                    <button class="cs-button">
+                        <span class="cs-button-text">
+                            What is your plan cancellation policy?
+                        </span>
+                    </button>
+                    <p class="cs-item-p">
+                        We offer free cancellations up to 24hrs in advance of the service date
+                    </p>
+                </li>
+                <li class="cs-faq-item">
+                    <button class="cs-button">
+                        <span class="cs-button-text">
+                            How long should carpet cleaning take?
+                        </span>
+                    </button>
+                    <p class="cs-item-p">
+                        Carpet cleaning sessions can take anywhere from 20 minutes to 2 hours. However, larger spaces or more extensive cleaning requirements may extend the cleaning time. The duration of carpet cleaning can vary depending on several factors, including the size of the area and the level of soiling.
+                    </p>
+                </li>
+                <li class="cs-faq-item">
+                    <button class="cs-button">
+                        <span class="cs-button-text">
+                            Can cleanings be scheduled?
+                        </span>
+                    </button>
+                    <p class="cs-item-p">
+                        Yes! You can schedule a carpet cleaning session <a href="/contact">here</a>
+                    </p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window
+      .netlifyIdentity
+      .on('init', (user) => {
+        if (!user) {
+          window
+            .netlifyIdentity
+            .on('login', () => {
+              document.location.href = '/admin/';
+            });
+        }
+      });
+  }
+</script>
