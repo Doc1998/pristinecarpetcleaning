@@ -4342,7 +4342,7 @@
 /* Desktop Parallax Effect - 1600px */
 @media only screen and (min-width: 100rem) {
   #hero-1467 {
-    background: url("https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Landscapes/field.jpg");
+    background: url("/assets/images/carpet-cleaning-stock-2.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
