@@ -1232,6 +1232,9 @@ body {
   body.dark-mode #cs-footer-841 .cs-bottom-link {
       opacity: 0.8;
   }
+  body.dark-mode #cs-footer-841 .cs-logo-img{
+    display: none;
+  }
   body.dark-mode #cs-footer-841 .cs-icon {
       filter: grayscale(1) brightness(1000%);
   }
