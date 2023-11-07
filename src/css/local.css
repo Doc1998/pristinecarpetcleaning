@@ -3366,6 +3366,19 @@
       left: 0;
       z-index: -2;
   }
+  #hero-329 .cs-bullet{
+  /* 16px - 20px */
+  font-size: clamp(1rem, 1.95vw, 1.25rem);
+  line-height: 1.5em;
+  text-align: left;
+  width: 100%;
+  max-width: 27.625rem;
+  /* 32px - 40px */
+  margin: 0 auto clamp(2rem, 4vw, 2.5rem) 0;
+  /* 24px - 40px */
+  margin-bottom: clamp(1.5rem, 4vw, 2.5rem);
+  color: var(--bodyTextColor);
+  }
   #hero-329 .cs-background:before {
       /* White Color Overlay */
       content: "";
@@ -3992,6 +4005,20 @@
     margin: 0;
     margin-bottom: 2rem;
     color: #fff;
+  }
+  #hero-1467 .cs-bullet{
+    font-size: clamp(1rem, 1.95vw, 1.25rem);
+    line-height: 1.5em;
+    text-align: inherit;
+    width: 100%;
+    /* 464px - 622px */
+    max-width: clamp(29rem, 60vw, 38.785rem);
+    margin: 0;
+    margin-bottom: 2rem;
+    color: #fff;
+  }
+  #hero1467 .cs-bullet li{
+    color: white !important;
   }
   #hero-1467 .cs-button-solid {
     font-size: 1rem;
