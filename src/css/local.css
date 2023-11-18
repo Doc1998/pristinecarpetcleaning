@@ -3953,12 +3953,7 @@
     display: flex;
     width: 100%;
   }
-  #hero-1467 .check-boxes .cs-label {
-    margin-right: .5em;
-  }
-  #hero-1467 .check-boxes .check-box-btn {
-    margin-right: .5em;
-  }
+
   #hero-1467 .cs-container {
     width: 100%;
     /* changes to 1280px at desktop */
@@ -4241,7 +4236,7 @@
     gap: 1rem;
   }
   #hero-1467 .cs-label {
-    font-size: 0.875rem;
+    font-size: 0.775rem;
     width: 100%;
     color: #767676;
     display: flex;
@@ -4343,6 +4338,22 @@
 }
 /* Tablet - 768px */
 @media only screen and (min-width: 48rem) {
+  #hero-1467 .cs-label {
+    font-size: 0.875rem;
+  }
+  #hero-1467 .cs-title {
+    /* 39px - 49px */
+    font-size: clamp(2.4375rem, 6.4vw, 3.0625rem);
+    font-weight: 700;
+    line-height: 1.2em;
+    text-align: inherit;
+    max-width: 51.8125rem;
+    /* 16px - 24px */
+    margin: 0;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+  }
   #hero-1467 .cs-form {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
@@ -4360,11 +4371,30 @@
 }
 /* Desktop - 1024px */
 @media only screen and (min-width: 64rem) {
+  #hero-1467 .cs-title {
+    /* 39px - 49px */
+    font-size: clamp(2.4375rem, 6.4vw, 3.0625rem);
+    font-weight: 700;
+    line-height: 1.2em;
+    text-align: inherit;
+    max-width: 51.8125rem;
+    /* 16px - 24px */
+    margin: 0 auto clamp(1rem, 4vw, 1.5rem) 0;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+  }
   #hero-1467 .cs-container {
     max-width: 80rem;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-between;
+  }
+  #hero-1467 .check-boxes .cs-label {
+    margin-right: .5em;
+  }
+  #hero-1467 .check-boxes .check-box-btn {
+    margin-right: .5em;
   }
   #hero-1467 .check-boxes {
     display: flex;
